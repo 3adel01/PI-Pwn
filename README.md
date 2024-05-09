@@ -1,6 +1,6 @@
 # PI Pwn
 
-this is a script to setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> on the raspberry pi and run <a href=https://github.com/GoldHEN/GoldHEN>GoldHen</a> on the PS4 fw 11.0<br>
+this is a script to setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> on the raspberry pi and run <a href=https://github.com/GoldHEN/GoldHEN>GoldHen</a> on the PS4 fw 9.00<br>
 
 
 
