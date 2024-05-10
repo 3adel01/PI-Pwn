@@ -12,7 +12,7 @@ echo -e "\n\n\033[36m _____  _____  _____
 
 while [ true ]
 do
-ret=$(sudo python3 /boot/firmware/PPPwn/pppwn.py --interface=eth0 --fw=1100 --stage1=/boot/firmware/PPPwn/pppwn.bin --stage2=/boot/firmware/PPPwn/stage2_11.00.bin)
+ret=$(sudo python3 /boot/firmware/PPPwn/pppwn.py --interface=eth0 --fw=900 --stage1=/boot/firmware/PPPwn/pppwn.bin --stage2=/boot/firmware/PPPwn/stage2_9.00.bin)
 if [ $ret -ge 1 ]
    then
         echo -e "\033[32m\nConsole PPPwned! \033[0m\n"
